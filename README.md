@@ -5,6 +5,9 @@ There are 2 sets data: 310, and 327(date);
 
 They used different hpx version:( after 310, hpx got updated, so 327 use the updated hpx version)
 
+( for some reason,  Using the updated hpx makes the performance of the original rotate better than before, and the corresponding split core facility performance is not as good as before.) 
+
+
 1. Without chunk number changing: 
 
    310_Data: https://github.com/hcq9102/Rotate_raw_data/tree/main/310_Data ;
