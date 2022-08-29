@@ -5,7 +5,7 @@ There are 2 sets data: 310, and 327(date);
 
 They used different hpx version:( after 310, hpx got updated, so 327 use the updated hpx version)
 
-( for some reason,  Using the updated hpx makes the performance of the original rotate better than before, and the corresponding split core facility performance is not as good as before.) 
+( for some reason,   Using the new hpx makes the performance of the original rotation better, then the performance improvement of the splitting core becomes less obvious than before).
 
 
 1. Without chunk number changing: 
