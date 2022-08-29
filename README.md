@@ -1,6 +1,6 @@
 # Rotate_raw_data
 
-NOTE:
+>NOTE:
 
    1). There are 2 sets data: 310, and 327(date); 
 
@@ -13,7 +13,7 @@ NOTE:
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-DATA: 
+>DATA: 
 
 1. Without chunk number changing: 
 
