@@ -2,10 +2,10 @@
 
 >NOTE:
 
-   1). There are 2 sets data: 310, and 327(date); 
+   1). There are 2 sets of data: 310, and 327(date); 
 
 
-   2). They used different hpx version:( after 310, hpx got updated, so 327 use the updated hpx version)
+   2). They used different hpx version:( after 3.10, hpx got updated, so 3.27 use the updated hpx version)
 
    ( for some reason,   Using the new hpx makes the performance of the original rotation better, then the performance improvement of the splitting core     becomes less obvious than before).
 
