@@ -11,6 +11,8 @@ They used different hpx version:( after 310, hpx got updated, so 327 use the upd
    
    327_Data: https://github.com/hcq9102/Rotate_raw_data/tree/main/327_Data ;
    
+            // 327_data: collect most of the data on 3.24, and correct one data on 3.27.
+   
 ....NOTE:   If need to see the compare results, please first check thoes .pptx files in these folders. 
    
 2. chunk number changed:
