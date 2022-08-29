@@ -15,13 +15,12 @@ They used different hpx version:( after 310, hpx got updated, so 327 use the upd
    
 2. chunk number changed:
 
-   310Chunk_number: https://github.com/hcq9102/Rotate_raw_data/tree/main/310Chunk_number; 
+   310Chunk_number: https://github.com/hcq9102/Rotate_raw_data/tree/main/310Chunk_number ; // complete, with different cores(4,8,16,24,32,40)
                      
-                     // complete, with different cores(4,8,16,24,32,40)
+                     
    
-   323_32core_Chunk: https://github.com/hcq9102/Rotate_raw_data/tree/main/323_32core_Chunk. 
+   323_32core_Chunk: https://github.com/hcq9102/Rotate_raw_data/tree/main/323_32core_Chunk .  // only have 32core test results
                      
-                     // only have 32core test results
    
  .....NOTE: also have .pptx files present compare results.
    
